@@ -5,5 +5,6 @@
     <file url="file://$PROJECT_DIR$/src/main/sql/BrewersDB.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/sql/CategorisDB.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/sql/Oefening_1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/Oefening_2.sql" dialect="MySQL" />
   </component>
 </project>
